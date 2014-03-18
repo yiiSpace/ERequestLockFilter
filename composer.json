@@ -1,0 +1,33 @@
+{
+    "name": "yiiSpace/",
+    "description": "This extension protect you from accidently  posting data twice or keep submitting data from malevolence",
+    "type": "yii-extension",
+    "keywords": [
+        "yii",
+        "time",
+        "lock",
+        "post",
+        "ajax"
+    ],
+    "homepage": "https://github.com/yiiSpace/ERequestLockFilter",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yiqing-95",
+            "email": "yiqing@qq.com",
+            "homepage": "https://github.com/yiqing-95"
+        }
+    ],
+    "support": {
+        "email": "yiqing_95@qq.com",
+        "issues": "https://github.com/yiiSpace/ERequestLockFilter/issues",
+        "source": "https://github.com/yiiSpace/ERequestLockFilter"
+    },
+    "require": {
+        "php": ">=5.2.*",
+        "yiisoft/yii": ">=1.1.14"
+    },
+    "require-dev": {
+    },
+    "minimum-stability": "dev"
+}
